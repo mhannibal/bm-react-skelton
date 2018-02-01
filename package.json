@@ -1,7 +1,7 @@
 {
   "name": "bm-react-skelton",
   "version": "1.0.0",
-  "description": "",
+  "description": "hannibal's react based wp plugin skelton ",
   "main": "index.js",
   "scripts": {
     "start": "webpack --watch",
